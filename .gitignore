@@ -1,0 +1,7 @@
+.idea
+BookShopping.sln.DotSettings.user
+BookShopping/BookShopping.csproj
+BookShopping/bin
+BookShopping/obj
+BookShopping/Migrations
+BookShopping.sln
